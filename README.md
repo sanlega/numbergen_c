@@ -40,6 +40,11 @@ This random number generator harnesses the power of C pointers, converting them 
 
    This will produce 5 random numbers between 10 and 50.
 
+## 🚫 Disclaimer
+
+This is a basic implementation, designed primarily for demonstration and educational purposes. Not all aspects are fully protected or optimized. It's recommended to use this code as a source of inspiration and understanding, rather than directly incorporating it into critical applications without thorough review and modifications.
+
+---
 ## 💡 Code Details
 
 - `ptr_to_hex`: Convert the memory address of a pointer to its hexadecimal representation.
